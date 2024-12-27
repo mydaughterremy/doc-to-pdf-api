@@ -1,0 +1,67 @@
+2024-12-28 01:07:44,940 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.45.125:5001
+2024-12-28 01:07:44,940 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 01:08:06,216 - INFO - 127.0.0.1 - - [28/Dec/2024 01:08:06] "POST /process/ HTTP/1.1" 200 -
+2024-12-28 01:09:36,614 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.45.125:5001
+2024-12-28 01:09:36,614 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 01:09:42,061 - INFO - Uploading file: test.hwp
+2024-12-28 01:09:42,193 - INFO - File uploaded successfully: ID=1063, Stamp=5sZTS2wq2zHRKbT6dos4972N6tsiEItqP5Aq2hidbMzizyw2rMWfgBOM1Wa0XqF9
+2024-12-28 01:09:42,193 - INFO - Checking conversion status for file ID: 1063
+2024-12-28 01:09:52,474 - INFO - Conversion completed for file ID: 1063
+2024-12-28 01:09:52,474 - INFO - Downloading converted file to: ./converted_file/test.pdf
+2024-12-28 01:09:52,727 - INFO - File downloaded successfully: ./converted_file/test.pdf
+2024-12-28 01:09:52,727 - INFO - Deleting file from server: ID=1063
+2024-12-28 01:09:52,750 - INFO - File processed successfully: ./converted_file/test.pdf
+2024-12-28 01:09:52,752 - INFO - 127.0.0.1 - - [28/Dec/2024 01:09:52] "POST /process/ HTTP/1.1" 200 -
+2024-12-28 01:49:53,257 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.45.125:5001
+2024-12-28 01:49:53,258 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 01:52:38,738 - INFO - Uploading file: test.hwp
+2024-12-28 01:52:39,913 - INFO - File uploaded successfully: ID=1064, Stamp=xGsw4Jx9nMGKktmpq9bICj5XiucvPle5FT4jNBdfN4YJKyDgxhDNU2Kkny3ZY2nK
+2024-12-28 01:52:39,914 - INFO - Checking conversion status for file ID: 1064
+2024-12-28 01:52:50,198 - INFO - Conversion completed for file ID: 1064
+2024-12-28 01:52:50,198 - INFO - Downloading converted file to: ./converted_file/test.pdf
+2024-12-28 01:52:50,446 - INFO - File downloaded successfully: ./converted_file/test.pdf
+2024-12-28 01:52:50,447 - INFO - Deleting file from server: ID=1064
+2024-12-28 01:52:50,466 - INFO - File processed successfully: ./converted_file/test.pdf
+2024-12-28 01:52:50,468 - INFO - 127.0.0.1 - - [28/Dec/2024 01:52:50] "POST /process/ HTTP/1.1" 200 -
+2024-12-28 02:39:30,737 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.45.125:5001
+2024-12-28 02:39:30,737 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 02:39:52,722 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.45.125:8080
+2024-12-28 02:39:52,722 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 02:40:09,387 - INFO - Uploading file: test.hwp
+2024-12-28 02:40:09,523 - INFO - File uploaded successfully: ID=1066, Stamp=1JnaapEzhMrMKwZNklSNdfVQglQ8qSWfZD4sp3yiRkjbwDzRJrBZw8iiiaRAoMzv
+2024-12-28 02:40:09,524 - INFO - Checking conversion status for file ID: 1066
+2024-12-28 02:40:19,858 - INFO - Conversion completed for file ID: 1066
+2024-12-28 02:40:19,859 - INFO - Downloading converted file to: ./converted_file/test.pdf
+2024-12-28 02:40:20,196 - INFO - File downloaded successfully: ./converted_file/test.pdf
+2024-12-28 02:40:20,197 - INFO - Deleting file from server: ID=1066
+2024-12-28 02:40:20,223 - INFO - File processed successfully: ./converted_file/test.pdf
+2024-12-28 02:40:20,224 - INFO - 127.0.0.1 - - [28/Dec/2024 02:40:20] "POST /process/ HTTP/1.1" 200 -
+2024-12-28 02:44:08,800 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.45.125:8000
+2024-12-28 02:44:08,800 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 02:44:29,531 - INFO - Uploading file: test.hwp
+2024-12-28 02:44:29,651 - INFO - File uploaded successfully: ID=1067, Stamp=cSoiEWDiNmEdNvrENbuROn3sumudcopOJXbvlAQUtw4VX0a8fFRkQxOlDQq4iXee
+2024-12-28 02:44:29,651 - INFO - Checking conversion status for file ID: 1067
+2024-12-28 02:44:39,935 - INFO - Conversion completed for file ID: 1067
+2024-12-28 02:44:39,935 - INFO - Downloading converted file to: ./converted_file/test.pdf
+2024-12-28 02:44:40,280 - INFO - File downloaded successfully: ./converted_file/test.pdf
+2024-12-28 02:44:40,280 - INFO - Deleting file from server: ID=1067
+2024-12-28 02:44:40,312 - INFO - File processed successfully: ./converted_file/test.pdf
+2024-12-28 02:44:40,314 - INFO - 127.0.0.1 - - [28/Dec/2024 02:44:40] "POST /process/ HTTP/1.1" 200 -
